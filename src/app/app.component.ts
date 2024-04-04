@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'secondComponent';
+  cities=["Pune","Mumbai","Delhi","Kolhapur","Nashik","Kokan","Lonavala"]
 }
